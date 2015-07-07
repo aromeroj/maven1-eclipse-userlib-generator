@@ -28,3 +28,7 @@ To generate the jar with the included dependencies use the *fatJar* Gradle task.
 ### Releases
 
 [v1.0](https://github.com/aromeroj/maven1-eclipse-userlib-generator/releases/download/v1.0/maven1-eclipse-userlib-generator-all-1.0.jar)
+
+### Motivation
+
+I created this utility mostly to aid with legacy project configurations and to learn a little bit of the Scala programming language.
