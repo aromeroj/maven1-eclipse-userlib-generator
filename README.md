@@ -22,5 +22,9 @@ To generate the jar with the included dependencies use the *fatJar* Gradle task.
 
 ### TODO
 
-1. Obtain file path separator by running operating system.
-2. Infer maven1 home local if not set.
+- [ ] Obtain file path separator by running operating system.
+- [ ] Infer maven1 home local if not set.
+
+### Releases
+
+[v1.0](https://github.com/aromeroj/maven1-eclipse-userlib-generator/releases/download/v1.0/maven1-eclipse-userlib-generator-all-1.0.jar)
